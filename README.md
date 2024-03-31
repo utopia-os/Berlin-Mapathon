@@ -1,37 +1,19 @@
-# Berlin Mapathon
+# Berlin Mapathon 🗺️
 
-Berlin Mapathon is a 7-day Mapping Challenge 🌟 focusing on community, commons, post-growth, regeneration, and circular economy.
+![Logo Berlin Mapathon](https://raw.githubusercontent.com/utopia-os/Berlin-Mapathon/main/logo_small.png)
 
-It's gonna be a mix of theoretical , practical , and technical  sessions.
+The Berlin Mapathon is a 7-day Mapping Challenge focusing on community, commons, post-growth, regeneration, and the circular economy. The vision for the Mapathon was conceived during the Code 2 Community Hackathon by several participating projects as a follow-up event, featuring a blend of theoretical, practical, and technical sessions.
 
-In the theoretical part, we're gonna focus on different fields and aspects of mapping, tooling, and best practices of geographic and thematic mapping 🌍.
+Besides the theoretical components—encompassing presentations, workshops, and discussions—we will explore the city in small groups. This adds a practical dimension to mapping, facilitating new friendships and network expansion. In the technical sessions, our focus will shift to the development and enhancement of our tools and data structures, with a special emphasis on open data and data interoperability 🔗.
 
-In practical sessions, where we explore the city 🚶‍♂️, get in contact 🤝, collect data 📊, and grow the network 🌐.
+[Pitch Deck](https://raw.githubusercontent.com/utopia-os/Berlin-Mapathon/main/pitch-deck.pdf)
 
-In the technical sessions, we focus on the development and enhancement of our tools and data structures, with a special focus on open data and data interoperability 🔗.
+### Open Data and Data Interoperability 🔄
 
-### Onboarding Quests 🚀
+Numerous projects, networks, and applications strive to unite people for change, collective action, and the creation of new regenerative structures 🌱.
 
-During the week, we are going out in small groups to onboard projects and people into our growing ecosystem. That could also be an opportunity to test out tokenomics and gamification as motivating elements to reward contribution and make everything more fun 🎉.
+We recognize the significant challenge of our time: integrating all these puzzle pieces 🧩.
 
-### Data Interoperability 🔄
+Our aim is to establish design patterns for an open ecosystem that includes users, projects, apps, and databases. This ecosystem should integrate as smoothly as possible with all current and future projects and networks, fostering a unified field of action 🌐.
 
-There are many projects, networks, and applications aiming to bring people together for change, collective action, and the manifestation of new regenerative structures 🌱. 
-
-We see the great challenge of our time in integrating all these pieces of the puzzle.🧩
-
-Our goal is to create design patterns for an open ecosystem of users, projects, apps, and databases. This ecosystem should integrate as seamlessly as possible with all existing and future projects and networks, fostering a unified field of action. 🌐
-
-By utilizing open data standards and open-source technology (like [Murmurations](https://murmurations.network/) or [ADAM Protocol](https://ad4m.dev/)), we aim to enable as many projects and networks as possible to connect with each other and share their data and users. This approach is intended to maximize interoperability and collaboration across the spectrum of change-making initiatives. 🔗✨
-
-### Topics and places that we are going to map:
-
-  - Culture & Art 🎭
-  - Tempelhofer Feld 🌳
-  - Co-Working Spaces 🖥
-  - Social & Regenerative Startups 💡
-  - NGOs 🌐
-  - Communities 👥
-  - Urban Gardening 🌿
-
-🏠 Based in Moos and Funded by Experience Grants 🌱
+By leveraging open data standards and open-source technology (such as [Murmurations](https://murmurations.network/) or [ADAM Protocol](https://ad4m.dev/)), we intend to enable as many projects and networks as possible to interconnect, sharing their data and users. This strategy is designed to maximize interoperability and collaboration across a wide spectrum of change-making initiatives 🔗✨.
