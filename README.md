@@ -24,7 +24,7 @@ Our goal is to create design patterns for an open ecosystem of users, projects, 
 
 By utilizing open data standards and open-source technology (like [Murmurations](https://murmurations.network/) or [ADAM Protocol](https://ad4m.dev/)), we aim to enable as many projects and networks as possible to connect with each other and share their data and users. This approach is intended to maximize interoperability and collaboration across the spectrum of change-making initiatives. 🔗✨
 
-### Potential Areas 
+### Topics and places that we are going to map:
 
   - Culture & Art 🎭
   - Tempelhofer Feld 🌳
