@@ -22,7 +22,7 @@ We see the great challenge of our time in integrating all these pieces of the pu
 
 Our goal is to create design patterns for an open ecosystem of users, projects, apps, and databases. This ecosystem should integrate as seamlessly as possible with all existing and future projects and networks, fostering a unified field of action. 🌐
 
-By utilizing open data standards and open-source technology, we aim to enable as many projects and networks as possible to connect with each other and share their data and users. This approach is intended to maximize interoperability and collaboration across the spectrum of change-making initiatives. 🔗✨
+By utilizing open data standards and open-source technology (like [Murmurations](https://murmurations.network/) or [ADAM Protocol](https://ad4m.dev/)), we aim to enable as many projects and networks as possible to connect with each other and share their data and users. This approach is intended to maximize interoperability and collaboration across the spectrum of change-making initiatives. 🔗✨
 
 ### Potential Areas 
 
